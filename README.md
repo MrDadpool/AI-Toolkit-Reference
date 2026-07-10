@@ -45,7 +45,9 @@ A curated, findable list of useful AI resources for working with Claude, Codex, 
 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | Gives Claude the ability to watch any video. `/watch` downloads, extracts frames, transcribes, and hands it all to Claude |
 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | Local-first, open-source Claude Design alternative. Native desktop app, 259+ skills, 142+ design systems; web/desktop/mobile prototypes, slides, images, videos; sandboxed preview; HTML/PDF/PPTX/MP4 export; works with 17+ CLIs |
 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | A full AI agency of specialized expert agents, each with personality, processes, and deliverables |
-[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman |
+[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman 
+| [morphllm/morph-claude-code-plugin](https://github.com/morphllm/morph-claude-code-plugin) | Morph plugin for Claude Code - chagne reasoning token burn to code |
+|
 
 ## General Resources
 
